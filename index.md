@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my world
 ---
-
+- [ ] Take a look around
+- [ ] Have fun
